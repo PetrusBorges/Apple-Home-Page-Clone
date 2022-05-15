@@ -23,7 +23,7 @@ Nele foi possivel ter conhecimentos fundamentais de HTML e CSS.
 ## 🎁 Expressões de gratidão
 
 - Obrigado publicamente ao instrutor
-  [Reinaldo Ferraz](https://www.linkedin.com/in/reinaldoferraz/)🤓.
+  [Code](https://github.com/oCode-21)🤓.
 
 ---
 
