@@ -7,6 +7,8 @@ Protótipo de treino tendo como base o site oficial da Appple.
 Este projeto foi desenvolvido para praticar e desenvolver técnicas de programação usando um site oficial.
 Nele foi possivel ter conhecimentos fundamentais de HTML e CSS.
 
+[Apple Home Page Clone - Petrus Borges](https://petrusborges-apple-homepage-clone.netlify.app)
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/105453766/168455424-33cf88ba-4ad1-479a-9ea5-019ef8fb8d5f.gif)
 
 ## 🛠️ Construído com
